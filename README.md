@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syed Owais Ahmed
-- 👀 I’m interested in learning Data Structures, Algorithms, JavaScript Backend Frameworks
-- 🌱 Currently learning NodeJS now
+- 👀 I’m interested in learning Node.js, Data Structures, Algorithms, JavaScript Backend Frameworks
+- 🌱 Currently learning Node.js now
 - 📫 How to reach me: https://www.linkedin.com/in/syed-owais-ahmed/ 
 
 <!---
